@@ -1,0 +1,20 @@
+{
+    "Note": "Specify the location of the chrome driver below",
+    "driver": "/Users/yourname/Desktop/Python_Projects/Instagram_Bot_Final/chromedriver",
+    "url": "https://www.instagram.com",
+    "Note1": "Specify the url of the post that is going to be liked below",
+    "posturl": "https://www.instagram.com/p/...",
+    "username": "1st account email/username",
+    "password": "1st account password",
+    "username1": "2nd account email/username",
+    "password1": "2nd account password",
+    "username2": "3rd account email/username",
+    "password2": "3rd account password",
+    "username3": "4th account email/username",
+    "password3": "4th account password",
+    "username4": "5th account email/username",
+    "password4": "5th account password",
+    "username5": "6th account email/username",
+    "password5": "6th account password",
+    "Note2": "You can use as many accounts as you want. Just follow the format above."
+}
