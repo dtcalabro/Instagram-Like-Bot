@@ -1,5 +1,5 @@
 """
-Facebook bot
+Instagram bot
 
 Note:   
     This is a proof of concept project and I don't endorse liking bots for Instagram. This was purely for learning and if you 
