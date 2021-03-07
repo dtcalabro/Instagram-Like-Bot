@@ -13,7 +13,7 @@ from instagram_bot_simplified import instagram_bot
 import json
 
 # Calling the config file.
-config_json = "/Users/derekcalabro/Desktop/Python_Projects/Instagram_Bot_Final/config.json"
+config_json = "/Users/yourname/Desktop/Python_Projects/Instagram_Bot_Final/config.json"
 
 # Main loop
 def mainloop():
